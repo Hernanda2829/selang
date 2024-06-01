@@ -1,0 +1,30 @@
+/* Tambahkan CSS ini pada file stylesheet Anda atau inline pada file view */
+.checkmark-container {
+    position: relative;
+    width: 100px;
+    /* Sesuaikan dengan ukuran gambar centang */
+    height: 100px;
+    /* Sesuaikan dengan ukuran gambar centang */
+    margin: 0 auto;
+}
+
+.checkmark {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0;
+    animation: fadeIn 0.5s ease-in-out forwards;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translate(-50%, -50%) scale(0);
+    }
+
+    to {
+        opacity: 1;
+        transform: translate(-50%, -50%) scale(1);
+    }
+}

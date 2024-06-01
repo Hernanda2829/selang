@@ -1,0 +1,9 @@
+Pengguna.php=/home/samuder2/public_html/application/controllers/admin/Pengguna.php
+M_pengguna.php=/home/samuder2/public_html/application/models/M_pengguna.php
+v_pengguna.php=/home/samuder2/public_html/application/views/admin/v_pengguna.php
+.well-known=/home/samuder2/public_html/.well-known
+v_pengguna.php.1=/home/samuder2/public_html/application/views/admin/v_pengguna.php
+Transfer_stok.php=/home/samuder2/public_html/application/controllers/admin/Transfer_stok.php
+M_transfer_stok.php=/home/samuder2/public_html/application/models/M_transfer_stok.php
+v_cetak_kirim_stok.php=/home/samuder2/public_html/application/views/admin/cetak/v_cetak_kirim_stok.php
+v_cetak_kirim_komplit_stok.php=/home/samuder2/public_html/application/views/admin/cetak/v_cetak_kirim_komplit_stok.php

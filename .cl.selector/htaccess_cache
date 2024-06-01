@@ -1,0 +1,3 @@
+[/home/samuder2/public_html]
+htaccess_list = /home/samuder2/public_html/.htaccess,/home/samuder2/public_html/application/.htaccess,/home/samuder2/public_html/application/cache/.htaccess,/home/samuder2/public_html/ss_pos/.htaccess,/home/samuder2/public_html/system/.htaccess
+

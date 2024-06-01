@@ -1,0 +1,167 @@
+--- 
+files: 
+  certificate: 
+    _wildcard__pos_samuderaselang_com_ad74c_13af7_1709175582_cbc610a1aaa7096abde75ec2c7e22d85: 
+      created: '1701403184'
+      domains: 
+        - "*.pos.samuderaselang.com"
+        - pos.samuderaselang.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “pos.samuderaselang.com” 1701403184.0
+      id: _wildcard__pos_samuderaselang_com_ad74c_13af7_1709175582_cbc610a1aaa7096abde75ec2c7e22d85
+      is_self_signed: 0
+      issuer.commonName: R3
+      issuer.organizationName: Let's Encrypt
+      key_algorithm: rsaEncryption
+      modulus: ad74caead1bdba774ce5188ad1bdb1501e2ee5af10050e105aa7d633f506c2c5045f3081cd2940f0fde79c7b533b33ec98f2fa6ebf048bffe6b9d7e0624da5f3e1e5b6a98fd555ac150e88ee6a312cdd64380c656222afddc906af27f7d762dfc168f0519ef7c4994c0d11acd4d451848a868dedbac180aea74606d0bdfbfb6eb25e2ec79a6a0692eca7ffebb1c1422f4d8382ef321626db410b8733db0cd1390576359b490b91839cb089c6c950416efc2b3ecc199ff259200ebc0d4a3096fffbce590ed950c0ca767ca7e8a5f2569df4802ba7461a2b53e673ff5e4d03b6d1f7f6f2fcee80e9694f4a6d2a2c7388658d418ab36b43b69563b777d468513af7
+      modulus_length: 2048
+      not_after: '1709175582'
+      not_before: '1701399583'
+      serial: 04f8b31296cca89affa36877abd0c5fb20f1
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: "*.pos.samuderaselang.com"
+      validation_type: dv
+    _wildcard__pos_samuderaselang_com_b4894_2b22d_1714452949_189dc7d01f3c5f3c51ff74879cb513f5: 
+      created: '1706680550'
+      domains: 
+        - "*.pos.samuderaselang.com"
+        - pos.samuderaselang.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “pos.samuderaselang.com” 1706680550.0
+      id: _wildcard__pos_samuderaselang_com_b4894_2b22d_1714452949_189dc7d01f3c5f3c51ff74879cb513f5
+      is_self_signed: 0
+      issuer.commonName: R3
+      issuer.organizationName: Let's Encrypt
+      key_algorithm: rsaEncryption
+      modulus: b4894a28d9591aa935eb2399967c10e66566d589d6dcd1d464a15364fe97d6b59c3236c02bfe4f097b8269c9ef3f68e85b6bfe97af9dbcdbc8060c4b080d3c46d110aa307b74c33b7b7b468c7be940cb48da836aae92686216516b71586c210316a4b3235f1e0c698c29aeee9f36217531ea01744a5a2992e68d99335ed362e8712ee47bbb5b8916af26d984aad64d1197774cc45bf53bbcc0979fb59f459e41987de42b4eb864c16d0ab33825901b9ef5cbdb0d706c89220ab32a41152d6684f669fb9ff789abab65b497a3d0bc8eb6d57d3a2887abd44c7af519ee672085f08c37c86ccbf7e84909ba98afdcfe197d2d6d0db7bed8b3c4e7492af46702b22d
+      modulus_length: 2048
+      not_after: '1714452949'
+      not_before: '1706676950'
+      serial: 04da1461a795f76331a8aafab6a699324956
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: "*.pos.samuderaselang.com"
+      validation_type: dv
+    pos_samuderaselang_com_b2efe_cffeb_1732939096_a0b871b8fc5d0bf84b7b41e3958aeb3e: 
+      created: '1701403096'
+      domains: 
+        - pos.samuderaselang.com
+        - mail.pos.samuderaselang.com
+        - www.pos.samuderaselang.com
+        - cpanel.pos.samuderaselang.com
+        - webmail.pos.samuderaselang.com
+        - webdisk.pos.samuderaselang.com
+        - cpcontacts.pos.samuderaselang.com
+        - cpcalendars.pos.samuderaselang.com
+        - autodiscover.pos.samuderaselang.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “pos.samuderaselang.com”
+      id: pos_samuderaselang_com_b2efe_cffeb_1732939096_a0b871b8fc5d0bf84b7b41e3958aeb3e
+      is_self_signed: 1
+      issuer.commonName: pos.samuderaselang.com
+      issuer.organizationName: ~
+      key_algorithm: rsaEncryption
+      modulus: b2efe38936fdeab59efff77418ab621c2615718f2c2a7cb6f86042e558a74d9ffd8be3d42757e330fe4e9d8e5d868fd0114dba13c08405ead78b6e8baca58f9651cb7540879d0ec4d379467fe0f2e661d899ca23d1bcf1deedd7d31a5b81fc0230bd2d322273233f91dd7a1a17bee730baebf1c8348318b0b1b9757014b373a517158e2322528bd26fb050b1afd3112abbce8c7417a8f3077ac8dc5da3ed5f37b72c4700cf9495aa8a39497ad557e5ae98d98bb9e6ddf18840790246c5fd9dc597f4db6f8e484067f80153acfc4bb59d77eb8b0e4ba95b10f790e54ec6d2a7458ec756a6bbc09e47341bbc5bfde62b473c36da1dfc83f23ce19921cd398cffeb
+      modulus_length: 2048
+      not_after: '1732939096'
+      not_before: '1701403096'
+      serial: 012582a803
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: pos.samuderaselang.com
+      validation_type: ~
+    pos_samuderaselang_com_cacb2_2c26d_1719723232_7a5ea64ca2109c5ba004f91e992ef8ed: 
+      created: '1711950833'
+      domains: 
+        - "*.pos.samuderaselang.com"
+        - pos.samuderaselang.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “pos.samuderaselang.com” 1711950833.0
+      id: pos_samuderaselang_com_cacb2_2c26d_1719723232_7a5ea64ca2109c5ba004f91e992ef8ed
+      is_self_signed: 0
+      issuer.commonName: R3
+      issuer.organizationName: Let's Encrypt
+      key_algorithm: rsaEncryption
+      modulus: cacb2189d479c1db65e7b597a3a491e83cb4d39114cafe152223c952f8db12a05571be2b253bd75bb801b20e7b4fe31d3a00dc9c60b6ff0c7991d5947e865ee542e383eca580dc60ae9257dd335c0a0012ea48e455fe2b5ccd555e9b1b6dda8f958d2744319be962b91a3fcb4f84fb5f84a4b62304fb28935dd8a00b0d03cdc56107d15469ad5d28c16fa318854bf4b83e0d4e805482da5402566e8be371c4ef78db4460a7624786f52f1d623a3c8c6b3ce5f5aa69ffcbc9e0c49c6ed41f70828b2afada2bf61df1a77c31698b2fa542c19ef79e54d0785e7e5940ccdd4599eeeca97d2033a0526e21edd4907f928bc26cefbdb4caa8e9f3c1f43cd516a2c26d
+      modulus_length: 2048
+      not_after: '1719723232'
+      not_before: '1711947233'
+      serial: 0369587b46b77e9da7b98de0033e6c858e67
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: pos.samuderaselang.com
+      validation_type: dv
+  key: 
+    ad74c_13af7_f9e1a6069e29eb2d419fcb2e543a4a48: 
+      created: '1701403184'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “pos.samuderaselang.com” 1701403184.0
+      id: ad74c_13af7_f9e1a6069e29eb2d419fcb2e543a4a48
+      key_algorithm: rsaEncryption
+      modulus: ad74caead1bdba774ce5188ad1bdb1501e2ee5af10050e105aa7d633f506c2c5045f3081cd2940f0fde79c7b533b33ec98f2fa6ebf048bffe6b9d7e0624da5f3e1e5b6a98fd555ac150e88ee6a312cdd64380c656222afddc906af27f7d762dfc168f0519ef7c4994c0d11acd4d451848a868dedbac180aea74606d0bdfbfb6eb25e2ec79a6a0692eca7ffebb1c1422f4d8382ef321626db410b8733db0cd1390576359b490b91839cb089c6c950416efc2b3ecc199ff259200ebc0d4a3096fffbce590ed950c0ca767ca7e8a5f2569df4802ba7461a2b53e673ff5e4d03b6d1f7f6f2fcee80e9694f4a6d2a2c7388658d418ab36b43b69563b777d468513af7
+      modulus_length: 2048
+    b2efe_cffeb_ce1d7791ebaa331785222591447c4bf9: 
+      created: '1701403096'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “pos.samuderaselang.com”
+      id: b2efe_cffeb_ce1d7791ebaa331785222591447c4bf9
+      key_algorithm: rsaEncryption
+      modulus: b2efe38936fdeab59efff77418ab621c2615718f2c2a7cb6f86042e558a74d9ffd8be3d42757e330fe4e9d8e5d868fd0114dba13c08405ead78b6e8baca58f9651cb7540879d0ec4d379467fe0f2e661d899ca23d1bcf1deedd7d31a5b81fc0230bd2d322273233f91dd7a1a17bee730baebf1c8348318b0b1b9757014b373a517158e2322528bd26fb050b1afd3112abbce8c7417a8f3077ac8dc5da3ed5f37b72c4700cf9495aa8a39497ad557e5ae98d98bb9e6ddf18840790246c5fd9dc597f4db6f8e484067f80153acfc4bb59d77eb8b0e4ba95b10f790e54ec6d2a7458ec756a6bbc09e47341bbc5bfde62b473c36da1dfc83f23ce19921cd398cffeb
+      modulus_length: 2048
+    b4894_2b22d_d119ff1d16cac6c5d61305f3ada196bc: 
+      created: '1706680550'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “pos.samuderaselang.com” 1706680550.0
+      id: b4894_2b22d_d119ff1d16cac6c5d61305f3ada196bc
+      key_algorithm: rsaEncryption
+      modulus: b4894a28d9591aa935eb2399967c10e66566d589d6dcd1d464a15364fe97d6b59c3236c02bfe4f097b8269c9ef3f68e85b6bfe97af9dbcdbc8060c4b080d3c46d110aa307b74c33b7b7b468c7be940cb48da836aae92686216516b71586c210316a4b3235f1e0c698c29aeee9f36217531ea01744a5a2992e68d99335ed362e8712ee47bbb5b8916af26d984aad64d1197774cc45bf53bbcc0979fb59f459e41987de42b4eb864c16d0ab33825901b9ef5cbdb0d706c89220ab32a41152d6684f669fb9ff789abab65b497a3d0bc8eb6d57d3a2887abd44c7af519ee672085f08c37c86ccbf7e84909ba98afdcfe197d2d6d0db7bed8b3c4e7492af46702b22d
+      modulus_length: 2048
+    cacb2_2c26d_5f5b40a19efb111ec650974f3098bf82: 
+      created: '1711950833'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “pos.samuderaselang.com” 1711950833.0
+      id: cacb2_2c26d_5f5b40a19efb111ec650974f3098bf82
+      key_algorithm: rsaEncryption
+      modulus: cacb2189d479c1db65e7b597a3a491e83cb4d39114cafe152223c952f8db12a05571be2b253bd75bb801b20e7b4fe31d3a00dc9c60b6ff0c7991d5947e865ee542e383eca580dc60ae9257dd335c0a0012ea48e455fe2b5ccd555e9b1b6dda8f958d2744319be962b91a3fcb4f84fb5f84a4b62304fb28935dd8a00b0d03cdc56107d15469ad5d28c16fa318854bf4b83e0d4e805482da5402566e8be371c4ef78db4460a7624786f52f1d623a3c8c6b3ce5f5aa69ffcbc9e0c49c6ed41f70828b2afada2bf61df1a77c31698b2fa542c19ef79e54d0785e7e5940ccdd4599eeeca97d2033a0526e21edd4907f928bc26cefbdb4caa8e9f3c1f43cd516a2c26d
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      ad74caead1bdba774ce5188ad1bdb1501e2ee5af10050e105aa7d633f506c2c5045f3081cd2940f0fde79c7b533b33ec98f2fa6ebf048bffe6b9d7e0624da5f3e1e5b6a98fd555ac150e88ee6a312cdd64380c656222afddc906af27f7d762dfc168f0519ef7c4994c0d11acd4d451848a868dedbac180aea74606d0bdfbfb6eb25e2ec79a6a0692eca7ffebb1c1422f4d8382ef321626db410b8733db0cd1390576359b490b91839cb089c6c950416efc2b3ecc199ff259200ebc0d4a3096fffbce590ed950c0ca767ca7e8a5f2569df4802ba7461a2b53e673ff5e4d03b6d1f7f6f2fcee80e9694f4a6d2a2c7388658d418ab36b43b69563b777d468513af7: 
+        _wildcard__pos_samuderaselang_com_ad74c_13af7_1709175582_cbc610a1aaa7096abde75ec2c7e22d85: ~
+      b2efe38936fdeab59efff77418ab621c2615718f2c2a7cb6f86042e558a74d9ffd8be3d42757e330fe4e9d8e5d868fd0114dba13c08405ead78b6e8baca58f9651cb7540879d0ec4d379467fe0f2e661d899ca23d1bcf1deedd7d31a5b81fc0230bd2d322273233f91dd7a1a17bee730baebf1c8348318b0b1b9757014b373a517158e2322528bd26fb050b1afd3112abbce8c7417a8f3077ac8dc5da3ed5f37b72c4700cf9495aa8a39497ad557e5ae98d98bb9e6ddf18840790246c5fd9dc597f4db6f8e484067f80153acfc4bb59d77eb8b0e4ba95b10f790e54ec6d2a7458ec756a6bbc09e47341bbc5bfde62b473c36da1dfc83f23ce19921cd398cffeb: 
+        pos_samuderaselang_com_b2efe_cffeb_1732939096_a0b871b8fc5d0bf84b7b41e3958aeb3e: ~
+      b4894a28d9591aa935eb2399967c10e66566d589d6dcd1d464a15364fe97d6b59c3236c02bfe4f097b8269c9ef3f68e85b6bfe97af9dbcdbc8060c4b080d3c46d110aa307b74c33b7b7b468c7be940cb48da836aae92686216516b71586c210316a4b3235f1e0c698c29aeee9f36217531ea01744a5a2992e68d99335ed362e8712ee47bbb5b8916af26d984aad64d1197774cc45bf53bbcc0979fb59f459e41987de42b4eb864c16d0ab33825901b9ef5cbdb0d706c89220ab32a41152d6684f669fb9ff789abab65b497a3d0bc8eb6d57d3a2887abd44c7af519ee672085f08c37c86ccbf7e84909ba98afdcfe197d2d6d0db7bed8b3c4e7492af46702b22d: 
+        _wildcard__pos_samuderaselang_com_b4894_2b22d_1714452949_189dc7d01f3c5f3c51ff74879cb513f5: ~
+      cacb2189d479c1db65e7b597a3a491e83cb4d39114cafe152223c952f8db12a05571be2b253bd75bb801b20e7b4fe31d3a00dc9c60b6ff0c7991d5947e865ee542e383eca580dc60ae9257dd335c0a0012ea48e455fe2b5ccd555e9b1b6dda8f958d2744319be962b91a3fcb4f84fb5f84a4b62304fb28935dd8a00b0d03cdc56107d15469ad5d28c16fa318854bf4b83e0d4e805482da5402566e8be371c4ef78db4460a7624786f52f1d623a3c8c6b3ce5f5aa69ffcbc9e0c49c6ed41f70828b2afada2bf61df1a77c31698b2fa542c19ef79e54d0785e7e5940ccdd4599eeeca97d2033a0526e21edd4907f928bc26cefbdb4caa8e9f3c1f43cd516a2c26d: 
+        pos_samuderaselang_com_cacb2_2c26d_1719723232_7a5ea64ca2109c5ba004f91e992ef8ed: ~
+    subject.commonName: 
+      "*.pos.samuderaselang.com": 
+        _wildcard__pos_samuderaselang_com_ad74c_13af7_1709175582_cbc610a1aaa7096abde75ec2c7e22d85: ~
+        _wildcard__pos_samuderaselang_com_b4894_2b22d_1714452949_189dc7d01f3c5f3c51ff74879cb513f5: ~
+      pos.samuderaselang.com: 
+        pos_samuderaselang_com_b2efe_cffeb_1732939096_a0b871b8fc5d0bf84b7b41e3958aeb3e: ~
+        pos_samuderaselang_com_cacb2_2c26d_1719723232_7a5ea64ca2109c5ba004f91e992ef8ed: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “pos.samuderaselang.com”: pos_samuderaselang_com_b2efe_cffeb_1732939096_a0b871b8fc5d0bf84b7b41e3958aeb3e
+      Cert for “pos.samuderaselang.com” 1701403184.0: _wildcard__pos_samuderaselang_com_ad74c_13af7_1709175582_cbc610a1aaa7096abde75ec2c7e22d85
+      Cert for “pos.samuderaselang.com” 1706680550.0: _wildcard__pos_samuderaselang_com_b4894_2b22d_1714452949_189dc7d01f3c5f3c51ff74879cb513f5
+      Cert for “pos.samuderaselang.com” 1711950833.0: pos_samuderaselang_com_cacb2_2c26d_1719723232_7a5ea64ca2109c5ba004f91e992ef8ed
+  key: 
+    friendly_name: 
+      Key for “pos.samuderaselang.com”: b2efe_cffeb_ce1d7791ebaa331785222591447c4bf9
+      Key for “pos.samuderaselang.com” 1701403184.0: ad74c_13af7_f9e1a6069e29eb2d419fcb2e543a4a48
+      Key for “pos.samuderaselang.com” 1706680550.0: b4894_2b22d_d119ff1d16cac6c5d61305f3ada196bc
+      Key for “pos.samuderaselang.com” 1711950833.0: cacb2_2c26d_5f5b40a19efb111ec650974f3098bf82
+    modulus:ecdsa_curve_name:ecdsa_public: 
+      ad74caead1bdba774ce5188ad1bdb1501e2ee5af10050e105aa7d633f506c2c5045f3081cd2940f0fde79c7b533b33ec98f2fa6ebf048bffe6b9d7e0624da5f3e1e5b6a98fd555ac150e88ee6a312cdd64380c656222afddc906af27f7d762dfc168f0519ef7c4994c0d11acd4d451848a868dedbac180aea74606d0bdfbfb6eb25e2ec79a6a0692eca7ffebb1c1422f4d8382ef321626db410b8733db0cd1390576359b490b91839cb089c6c950416efc2b3ecc199ff259200ebc0d4a3096fffbce590ed950c0ca767ca7e8a5f2569df4802ba7461a2b53e673ff5e4d03b6d1f7f6f2fcee80e9694f4a6d2a2c7388658d418ab36b43b69563b777d468513af7: ad74c_13af7_f9e1a6069e29eb2d419fcb2e543a4a48
+      b2efe38936fdeab59efff77418ab621c2615718f2c2a7cb6f86042e558a74d9ffd8be3d42757e330fe4e9d8e5d868fd0114dba13c08405ead78b6e8baca58f9651cb7540879d0ec4d379467fe0f2e661d899ca23d1bcf1deedd7d31a5b81fc0230bd2d322273233f91dd7a1a17bee730baebf1c8348318b0b1b9757014b373a517158e2322528bd26fb050b1afd3112abbce8c7417a8f3077ac8dc5da3ed5f37b72c4700cf9495aa8a39497ad557e5ae98d98bb9e6ddf18840790246c5fd9dc597f4db6f8e484067f80153acfc4bb59d77eb8b0e4ba95b10f790e54ec6d2a7458ec756a6bbc09e47341bbc5bfde62b473c36da1dfc83f23ce19921cd398cffeb: b2efe_cffeb_ce1d7791ebaa331785222591447c4bf9
+      b4894a28d9591aa935eb2399967c10e66566d589d6dcd1d464a15364fe97d6b59c3236c02bfe4f097b8269c9ef3f68e85b6bfe97af9dbcdbc8060c4b080d3c46d110aa307b74c33b7b7b468c7be940cb48da836aae92686216516b71586c210316a4b3235f1e0c698c29aeee9f36217531ea01744a5a2992e68d99335ed362e8712ee47bbb5b8916af26d984aad64d1197774cc45bf53bbcc0979fb59f459e41987de42b4eb864c16d0ab33825901b9ef5cbdb0d706c89220ab32a41152d6684f669fb9ff789abab65b497a3d0bc8eb6d57d3a2887abd44c7af519ee672085f08c37c86ccbf7e84909ba98afdcfe197d2d6d0db7bed8b3c4e7492af46702b22d: b4894_2b22d_d119ff1d16cac6c5d61305f3ada196bc
+      cacb2189d479c1db65e7b597a3a491e83cb4d39114cafe152223c952f8db12a05571be2b253bd75bb801b20e7b4fe31d3a00dc9c60b6ff0c7991d5947e865ee542e383eca580dc60ae9257dd335c0a0012ea48e455fe2b5ccd555e9b1b6dda8f958d2744319be962b91a3fcb4f84fb5f84a4b62304fb28935dd8a00b0d03cdc56107d15469ad5d28c16fa318854bf4b83e0d4e805482da5402566e8be371c4ef78db4460a7624786f52f1d623a3c8c6b3ce5f5aa69ffcbc9e0c49c6ed41f70828b2afada2bf61df1a77c31698b2fa542c19ef79e54d0785e7e5940ccdd4599eeeca97d2033a0526e21edd4907f928bc26cefbdb4caa8e9f3c1f43cd516a2c26d: cacb2_2c26d_5f5b40a19efb111ec650974f3098bf82
